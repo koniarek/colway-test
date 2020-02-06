@@ -1,30 +1,26 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Centrum Kolagenu
+featuredImage: "https://ucarecdn.com/73c1609d-a3de-4447-9103-5207fb73becc/"
+subtitle: " Oficjalny dystrybutor produktów Colway."
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Centrum Kolagenu - Colway.
+  title: Centrum Kolagenu - Colway
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+##Centrum Kolagenu - Colway
 
-# Features
+Nasza firma jest oficjalnym, certyfikowanym dystrybutorem produktów marki Colway.
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+##Posiadamy sklep stacjonarny we Wrocławiu.
 
-## Get started
+Lokalizacjas przy ulicy Powstańców Śląskich 7aw budynku Globis, oraz prowadzimy sprzedaż internetową, wszystkich produktów marki Colway, które obecnie znajdują się w ofercie producenta.
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+##COLWAY to marka polska.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+Uznana w kraju i na świecie, z diamentowym szlifem doświadczeń, które zbieramy już od ponad dekady, dostarczając na rynek produkty innowacyjne w skali świata. To najwyższej jakości kosmetyki na bazie kolagenu o aktywności transdermalnej i unikatowe suplementy diety – maestria przemyślnego zespolenia bogactwa dostarczanego przez Naturę z możliwościami ultranowoczesnej technologii.
+
+##WIZJA i PASJA
+
+Towarzyszą nam od początku istnienia marki COLWAY. Dzięki nim jesteśmy pionierami wdrażającymi niespotykane dotychczas produkty i rozwiązania, a nasi współpracownicy otrzymują narzędzia zapewniające im duże możliwości zarobkowe.COLWAY to marka polska – uznana w kraju i na świecie, z diamentowym szlifem doświadczeń, które zbieramy już od ponad dekady, dostarczając na rynek produkty innowacyjne w skali świata. To najwyższej jakości kosmetyki na bazie kolagenu o aktywności transdermalnej i unikatowe suplementy diety – maestria przemyślnego zespolenia bogactwa dostarczanego przez Naturę z możliwościami ultranowoczesnej technologii.
